@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Test Complex Number Class",
+      "setup": "",
+      "run": "python -m unittest tests/testComplexNumber.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Test Academic Record Class",
+      "setup": "",
+      "run": "python -m unittest tests/testAcademicRecord.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 4
+    }
+  ]
+}
